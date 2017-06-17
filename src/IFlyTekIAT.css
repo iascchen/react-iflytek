@@ -1,0 +1,52 @@
+@charset "utf-8";
+/* CSS Document */
+
+.voice {
+    height: 112px;
+    margin: 0;
+}
+
+.result {
+    font-size: 1rem;
+    font-weight: bold;
+    color: #9b9b9b;
+    border: #aaaaaa 1px dashed;
+    padding: 5px;
+    margin: 0 5px;
+}
+
+.canvas_wrapper {
+    transition: all 0.2s ease;
+    border: #aaaaaa 1px dashed;
+    margin: auto;
+    width: 300px;
+    height: 30px;
+    max-width: 96%;
+}
+
+.tip {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: rgb(16, 142, 233);
+    border-radius: 5px;
+    margin: auto;
+    padding: 1px;
+    max-width: 3rem;
+    text-align: center;
+    overflow: hidden;
+    color: #ffffff;
+}
+
+.volume {
+    width: 240px;
+}
+
+.helper {
+    margin-top: 4px;
+}
+
+.helper li {
+    font-size: 0.5rem;
+    padding: 0 4px;
+}

@@ -14,12 +14,17 @@
     "react",
     "iFlyTek",
     "voice",
-    "input"
+    "input",
+    "react-component"
   ],
-  "author": "CHEN Hao",
+  "author": "CHEN Hao iascchen@gmail.com",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/iascchen/react-iflytek/issues"
   },
-  "homepage": "https://github.com/iascchen/react-iflytek#readme"
+  "homepage": "https://github.com/iascchen/react-iflytek#readme",
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react": "^15.6.1"
+  }
 }
