@@ -1,0 +1,25 @@
+{
+  "name": "react-iflytek",
+  "version": "0.1.0",
+  "description": "React Component which integrated with iFlyTek voice input (IAT).",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iascchen/react-iflytek.git"
+  },
+  "keywords": [
+    "react",
+    "iFlyTek",
+    "voice",
+    "input"
+  ],
+  "author": "CHEN Hao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iascchen/react-iflytek/issues"
+  },
+  "homepage": "https://github.com/iascchen/react-iflytek#readme"
+}
